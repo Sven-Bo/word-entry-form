@@ -5,8 +5,7 @@ Here is how to create a data entry form for MS word in 10 minutes using Python. 
 
 ## Video Tutorial
 
-..will follow soon :)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/fziZXbeaegc/0.jpg)](https://youtu.be/fziZXbeaegc)
 
 ## Requirements
 ```
